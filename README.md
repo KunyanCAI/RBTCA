@@ -1,6 +1,6 @@
 # Region-Based Text-Consistent Augmentation for Multimodal Medical Segmentation
 
-This repository contains the official implementation of our MICCAI 2025 paper:
+This repository (to be updated) contains the official implementation of our MICCAI 2025 paper:
 
 **Region-Based Text-Consistent Augmentation for Multimodal Medical Segmentation**
 

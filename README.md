@@ -20,7 +20,7 @@ This repository contains the official PyTorch implementation of the **RBTCA** fr
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/KunyanCAI/RBTCA
-    cd RBTCA
+    cd RBTCA/RBTCA_Refactored
     ```
 
 2.  **Create the Conda environment:**

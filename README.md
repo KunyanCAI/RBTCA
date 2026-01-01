@@ -1,6 +1,7 @@
 # Region-Based Text-Consistent Augmentation for Multimodal Medical Segmentation (RBTCA)
 
 **Authors:** Kunyan Cai, Chenggang Yan, Min He, Liangqiong Qu, Shuai Wang, and Tao Tan
+**Paper:** MICCAI 2025 Paper [Link](https://link.springer.com/chapter/10.1007/978-3-032-04947-6_51)
 
 ## Introduction
 

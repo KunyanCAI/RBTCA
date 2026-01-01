@@ -1,0 +1,25 @@
+name: rbtca
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=11.8
+  - numpy
+  - pandas
+  - matplotlib
+  - tqdm
+  - pillow
+  - pip
+  - pip:
+    - opencv-python
+    - transformers
+    - timm
+    - openpyxl
+    - scipy
+    - scikit-learn
+    - einops

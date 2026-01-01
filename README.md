@@ -36,7 +36,7 @@ This code is optimized for the **QaTa-Covid19** dataset.
 *   **QaTa-COV19 Source**: The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset).
 *   **Text Descriptions**: The textual reports for QaTa-COV19 are sourced from the [LViT project](https://github.com/HUANGLIZI/LViT).
 
-**Note on Lung Tumor CT Dataset:** Our paper also evaluates an internal **Lung Tumor CT** dataset. However, as that dataset is 3D, uses a different loading format, and is not open-source, it is not included in this public repository.
+**Note on Lung Tumor CT Dataset:** Our paper also evaluates an internal **Lung Tumor CT** dataset. However, as that dataset is not yet open-source, it is not included in this public repository.
 
 ### QaTa-Covid19 Format
 *   **Images & Masks**: Single-channel grayscale images stored as `.png` files.

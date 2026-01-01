@@ -19,7 +19,7 @@ This repository contains the official PyTorch implementation of the **RBTCA** fr
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/KunyanCAI/RBTCA
     cd RBTCA
     ```
 
